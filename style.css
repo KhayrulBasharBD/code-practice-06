@@ -1,0 +1,42 @@
+header{
+    background-color: rgb(199, 199, 248);
+    color: rgb(0, 0, 0);
+
+}
+.banner{
+    background-color: rgb(116, 252, 252);
+}
+.service-cards{
+    background-color: rgb(228, 255, 198);
+}
+.work_intro{
+    background-color: rgb(255, 175, 118);
+}
+.work_cards{
+    background-color: rgb(120, 199, 202);
+}
+.explore_intro{
+    background-color: rgb(134, 255, 154);
+}
+.explore_cards{
+    background-color: rgb(79, 168, 168);
+}
+.contact{
+    background-color: rgb(197, 141, 250);
+}
+footer{
+    background-color: rgb(190, 158, 158);
+    color: white;
+}
+.ban-btm-right button{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    font-size: large;
+}
+
+.bold{
+    font-weight: bold;
+    font-size: large;
+}
+
